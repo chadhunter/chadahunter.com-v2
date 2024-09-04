@@ -16,7 +16,7 @@ Prior to his role as Head of Sustainability, Chad started a new business line of
 digital carbon products. Chad owned the P&L, strategy, and overall success of this new business line. 
 
 Before Aspiration, Chad was the CEO & Co-founder of
-[Carbon Insights](https://www.carboninsights.co/) which was acquired by Aspiration and
+**Carbon Insights** which was acquired by Aspiration and
 announced in January 2022
 ([Press Release](https://www.businesswire.com/news/home/20220112005366/en/Aspiration-Acquires-Carbon-Insights-to-Expand-its-Sustainability-Services-for-Consumers-and-Enterprises/)).
 Carbon Insights was a public benefit corporation based in Denver, CO providing
