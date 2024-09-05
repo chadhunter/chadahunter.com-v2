@@ -1,4 +1,4 @@
-xX&^X---
+---
 layout: about
 title: about
 permalink: /
@@ -16,7 +16,7 @@ more_info: >
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
+git s
 ---
 
 Current: I am the Head of Sustainability at Aspiration, the leading climate fintech in the U.S. I lead our corporate sustainability strategy and climate feature innovation and development across our financial products.
