@@ -9,11 +9,11 @@ nav_order: 2
 
 Chad is currently the Senior Director, Head of Sustainability at [Aspiration](https://aspiration.com)
 where he leads the corporate and product sustainability initiatives of the firm. This includes
-all corporate accounting, reporting, and risk assessments as well as embedding climate within the 
-Aspiration's financial products. 
+all corporate accounting, reporting, and risk assessments as well as embedding climate within the
+Aspiration's financial products.
 
-Prior to his role as Head of Sustainability, Chad started a new business line of B2B2C 
-digital carbon products. Chad owned the P&L, strategy, and overall success of this new business line. 
+Prior to his role as Head of Sustainability, Chad started a new business line of B2B2C
+digital carbon products. Chad owned the P&L, strategy, and overall success of this new business line.
 
 Before Aspiration, Chad was the CEO & Co-founder of
 **Carbon Insights** which was acquired by Aspiration and
@@ -30,8 +30,8 @@ where his research focus was at the intersection of economics and renewable
 transportation systems. Chad's work at NREL supported multiple public agencies including
 the U.S. DOE Hydrogen and Fuel Cell Technologies Office, Vehicle Technologies Office,
 Solar Technologies Office, Energy Efficiency & Renewable Energy Strategic Analysis Office, and the California
-Energy Commission. Highlights of Chad's work can be found in the [professional highlights page]({{ site.baseurl }}{% link professional-highlights.md %}), 
-[all his publications can be found here]({{ site.baseurl }}{% link publications.md %}), 
+Energy Commission. Highlights of Chad's work can be found in the [professional highlights page]({{ site.baseurl }}{% link professional-highlights.md %}),
+[all his publications can be found here]({{ site.baseurl }}{% link publications.md %}),
 and [a list of his awards can be found here.]({{ site.baseurl }}{% link awards.md %})
 
 Chad was also an [EDF Climate Corps](https://business.edf.org/categories/climate-corps/)
