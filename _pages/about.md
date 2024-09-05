@@ -9,6 +9,7 @@ align: right
 image: prof_pic.jpg
 image_circular: false # crops the image to make it circular
 more_info: >
+
 <p>Head of Sustainability @ Aspiration</p>
 <p>Denver, CO 80212</p>
 
