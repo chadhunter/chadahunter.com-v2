@@ -32,7 +32,7 @@ nav_order: 5
 
 # Selected Publications
 
-Below are selected highlights of my research and work. [Find all my publications here.]({{ site.baseurl }}{% link publications.md %})
+Below are selected highlights of my research and work. [Find all my publications here.](/publications)
 
 ## Techno-economic analysis of long-duration energy storage systems (2021)
 
@@ -52,7 +52,7 @@ heavy-duty vehicle fuel cells that could reduce the levelized cost of energy by 
 compared with the best previously considered storage technology and, thus, could help
 enable very high (>80%) renewable energy grids.
 
-![ldes-graphical-abstract]({{ site.url | absolute_path}}/assets/images/ldes-graphical-abstract.png)
+INSERT Image of ldes-graphical-abstract
 
 Graphical abstract from the long-duration energy storage techno-economic analysis
 ([Source](https://doi.org/10.1016/j.joule.2021.06.018))
@@ -68,7 +68,7 @@ Chad provided a DOE H2IQ Hour webinar in September 2021 reviewing this work and 
 major conclusions to over 400 attendees.
 ([Webinar Link](https://www.energy.gov/eere/fuelcells/h2iq-hour-market-segmentation-medium-and-heavy-duty-vehicles))
 
-![cover-page-tp-5400-71796]({{ site.url | absolute_path}}/assets/images/cover-page-tp-5400-71796.png)
+Insert image of cover-page-tp-5400-71796
 
 Report cover from Chad et al.'s Total Cost of Ownership analysis for Class 8 Tractors
 and Class 4 Parcel Delivery Trucks
@@ -76,7 +76,7 @@ and Class 4 Parcel Delivery Trucks
 
 # Awards
 
-Below are selected awards of my professional career. [Find all my awards here.]({{ site.baseurl }}{% link awards.md %})
+Below are selected awards of my professional career. [Find all my awards here.](/awards)
 
 <li><b>2021 University of Rochester Young Alumni Achievement Award</b> <i>(October 2021)</i>. Awarded to Chemical Engineering alumni within 10 years of their graduation date in recognition of significant accomplishments in professional leadership</li>
 
