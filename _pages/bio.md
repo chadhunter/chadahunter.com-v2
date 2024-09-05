@@ -30,9 +30,9 @@ where his research focus was at the intersection of economics and renewable
 transportation systems. Chad's work at NREL supported multiple public agencies including
 the U.S. DOE Hydrogen and Fuel Cell Technologies Office, Vehicle Technologies Office,
 Solar Technologies Office, Energy Efficiency & Renewable Energy Strategic Analysis Office, and the California
-Energy Commission. Highlights of Chad's work can be found in the [professional highlights page]({{ site.baseurl }}{% link professional-highlights.md %}),
-[all his publications can be found here]({{ site.baseurl }}{% link publications.md %}),
-and [a list of his awards can be found here.]({{ site.baseurl }}{% link awards.md %})
+Energy Commission. Highlights of Chad's work can be found in the [professional highlights page](/highlights),
+[all his publications can be found here](/publications),
+and [a list of his awards can be found here.](/awards)
 
 Chad was also an [EDF Climate Corps](https://business.edf.org/categories/climate-corps/)
 fellow at [Bird](https://www.bird.co/), where he developed a life-cycle assessment
