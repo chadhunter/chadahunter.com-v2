@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Building teams and products to help solve climate change.
+subtitle: Building products and teams to help solve climate change.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address:
+  more_info: >
+    <p>Head of Sustainability @ Aspiration</p>
+    <p>Denver, CO</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
