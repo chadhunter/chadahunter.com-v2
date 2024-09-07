@@ -1,13 +1,15 @@
 ---
 layout: page
-permalink: /highlights/
-title: highlights
-description: Professional highlights over Chad's career.
+permalink: /Highlights/
+title: Highlights
+description: 
 nav: true
 nav_order: 5
 ---
 
-# Press Highlights
+###
+
+# Press
 
 ## Carbon Insights
 
