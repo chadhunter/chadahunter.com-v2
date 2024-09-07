@@ -30,7 +30,11 @@ nav_order: 5
 - Lifecycle carbon equivalent emissions for various transportation modes
   ([Source](https://www.bird.co/blog/life-cycle-analysis-co2-emissions-gap-between-cars-scooters/))
 
-![bird lca image]({{ site.url | absolute_path}}/assets/images/bird-lca.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bird-lca.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 # Selected Publications
 
@@ -54,7 +58,11 @@ heavy-duty vehicle fuel cells that could reduce the levelized cost of energy by 
 compared with the best previously considered storage technology and, thus, could help
 enable very high (>80%) renewable energy grids.
 
-INSERT Image of ldes-graphical-abstract
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ldes-graphical-abstract.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Graphical abstract from the long-duration energy storage techno-economic analysis
 ([Source](https://doi.org/10.1016/j.joule.2021.06.018))
@@ -70,7 +78,11 @@ Chad provided a DOE H2IQ Hour webinar in September 2021 reviewing this work and 
 major conclusions to over 400 attendees.
 ([Webinar Link](https://www.energy.gov/eere/fuelcells/h2iq-hour-market-segmentation-medium-and-heavy-duty-vehicles))
 
-Insert image of cover-page-tp-5400-71796
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cover-page-tp-5400-71796.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Report cover from Chad et al.'s Total Cost of Ownership analysis for Class 8 Tractors
 and Class 4 Parcel Delivery Trucks
