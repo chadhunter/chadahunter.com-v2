@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards
 description:
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <li><b>2021 University of Rochester Young Alumni Achievement Award</b> <i>(October 2021)</i>. Awarded to Chemical Engineering alumni within 10 years of their graduation date in recognition of significant accomplishments in professional leadership</li>
