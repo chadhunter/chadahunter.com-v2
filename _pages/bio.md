@@ -2,15 +2,15 @@
 layout: page
 permalink: /bio/
 title: bio
-description: Chad Hunter's professional summary.
+description: 
 nav: true
 nav_order: 2
 ---
 
 Chad is currently the Senior Director, Head of Sustainability at [Aspiration](https://aspiration.com)
-where he leads the corporate and product sustainability initiatives of the firm. This includes
-all corporate accounting, reporting, and risk assessments as well as embedding climate within the
-Aspiration's financial products.
+where he leads the corporate and product sustainability initiatives of the firm. On the corporate sustainability side, this includes
+all corporate GHG accounting, target setting, carbon credit procurement, reporting, and risk assessments. On the Product side,
+this includes leading Aspiration's product climate strategy, innovation, and development across their debit card and investment products.
 
 Prior to his role as Head of Sustainability, Chad started a new business line of B2B2C
 digital carbon products. Chad owned the P&L, strategy, and overall success of this new business line.

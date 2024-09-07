@@ -243,6 +243,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _pages/blog.md
   - _pages/dropdown.md
   - _pages/projects.md
   - purgecss.config.js
