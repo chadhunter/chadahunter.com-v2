@@ -241,12 +241,15 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - _news/
   - package.json
   - package-lock.json
   - _pages/blog.md
   - _pages/dropdown.md
   - _pages/projects.md
   - _pages/repositories.md
+  - _posts/
+  - _projects/
   - purgecss.config.js
   - README.md
   - readme_preview/
