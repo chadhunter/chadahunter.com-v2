@@ -36,8 +36,6 @@ nav_order: 4
     </div>
 </div>
 
-#
-
 ---
 
 # Selected Publications
@@ -91,8 +89,6 @@ major conclusions to over 400 attendees.
 Report cover from Chad et al.'s Total Cost of Ownership analysis for Class 8 Tractors
 and Class 4 Parcel Delivery Trucks
 ([Source](https://www.nrel.gov/docs/fy21osti/71796.pdf))
-
-#
 
 ---
 
