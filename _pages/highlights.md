@@ -2,7 +2,7 @@
 layout: page
 permalink: /Highlights/
 title: Highlights
-description: 
+description:
 nav: true
 nav_order: 5
 ---
