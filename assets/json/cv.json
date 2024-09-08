@@ -7,31 +7,43 @@
   "education": [
     {
       "institution": "Massachusetts Institute of Technology (MIT)",
-      "area": "Chemical Engineering",
+      "location": "Cambridge, MA",
       "studyType": "M.S.",
+      "area": "Chemical Engineering",
       "startDate": "2012",
       "endDate": "2013",
-      "gpa": "4.7/5.0",
-      "summary": "M.S. in Chemical Engineering Practice. Recipient of the Jefferson W. Tester Prize for leadership and enthusiasm"
+      "score": "4.7/5.0",
+      "courses": [
+        "M.S. in Chemical Engineering Practice",
+        "Recipient of the Jefferson W. Tester Prize for leadership and enthusiasm"
+      ]
     },
     {
       "institution": "University of Colorado at Boulder",
-      "area": "Business Administration",
+      "location": "Boulder, CO",
       "studyType": "MBA",
+      "area": "Business Administration",
       "startDate": "2017",
       "endDate": "2019",
-      "gpa": "3.97/4.0",
-      "summary": "Class Rank: 1/89. Evening MBA program (focus: management, entrepreneurship, and sustainability)"
+      "score": "3.97/4.0",
+      "courses": [
+        "Class Rank: 1/89",
+        "Evening MBA program (focus: management, entrepreneurship, and sustainability)"
+      ]
     },
     {
       "institution": "University of Rochester",
-      "area": "Chemical Engineering",
+      "location": "Rochester, NY",
       "studyType": "B.S.",
-      "minor": "Mathematics",
+      "area": "Chemical Engineering, Minor in Mathematics",
       "startDate": "2008",
       "endDate": "2012",
-      "gpa": "3.97/4.0",
-      "summary": "Summa cum laude. Received ACS Chemical Achievement Award, Robert L. Wells Prize, Albert K. Ackoff Award. Member of PBK, TBP, and Keidaean Honor Society"
+      "score": "3.97/4.0",
+      "courses": [
+        "Summa cum laude",
+        "Received ACS Chemical Achievement Award, Robert L. Wells Prize, Albert K. Ackoff Award",
+        "Member of PBK, TBP, and Keidaean Honor Society"
+      ]
     }
   ],
   "work": [
