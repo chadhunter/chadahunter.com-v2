@@ -42,7 +42,7 @@
   ],
   "work": [
     {
-      "company": "Aspiration",
+      "name": "Aspiration",
       "position": "Senior Director, Head of Sustainability",
       "startDate": "2023",
       "summary": "Lead corporate sustainability strategy, GHG inventory creation, target setting, reduction planning, and reporting",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "company": "Aspiration (now Catona Climate)",
+      "name": "Aspiration (now Catona Climate)",
       "position": "Senior Director, Head of Digital Products",
       "startDate": "2023",
       "endDate": "2023",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "company": "Aspiration (now Catona Climate)",
+      "name": "Aspiration (now Catona Climate)",
       "position": "Senior Director, Carbon Products & Innovation",
       "startDate": "2022",
       "endDate": "2023",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "company": "Aspiration (now Catona Climate)",
+      "name": "Aspiration (now Catona Climate)",
       "position": "Director, ESG Modeling",
       "startDate": "2022",
       "endDate": "2023",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "company": "Carbon Insights",
+      "name": "Carbon Insights",
       "position": "Chief Executive Officer (CEO) & Co-Founder",
       "startDate": "2019",
       "endDate": "2021",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "company": "National Renewable Energy Laboratory (NREL)",
+      "name": "National Renewable Energy Laboratory (NREL)",
       "position": "Team Lead – Center for Integrated Mobility Sciences",
       "startDate": "2019",
       "endDate": "2021",
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "company": "National Renewable Energy Laboratory (NREL)",
+      "name": "National Renewable Energy Laboratory (NREL)",
       "position": "Systems Analyst",
       "startDate": "2017",
       "endDate": "2019",
@@ -118,25 +118,25 @@
       ]
     },
     {
-      "company": "Bird",
+      "name": "Bird",
       "position": "Environmental Defense Fund (EDF) Climate Corps Fellow",
       "startDate": "2019",
       "highlights": ["Created a proprietary life-cycle analysis (LCA) model for GHG, PM, NOx, and SOx emissions for Bird’s electric vehicle platform"]
     },
     {
-      "company": "Exxon Mobil Corporation",
+      "name": "Exxon Mobil Corporation",
       "position": "Project Implementation Engineer",
       "startDate": "2015",
       "endDate": "2017"
     },
     {
-      "company": "Exxon Mobil Corporation",
+      "name": "Exxon Mobil Corporation",
       "position": "Process Engineer / Consultant",
       "startDate": "2015",
       "endDate": "2015"
     },
     {
-      "company": "Exxon Mobil Corporation",
+      "name": "Exxon Mobil Corporation",
       "position": "Process Engineer / Modeler",
       "startDate": "2013",
       "endDate": "2014"

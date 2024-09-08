@@ -32,7 +32,7 @@ nav_order: 4
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bird-lca.png" class="img-fluid rounded z-depth-1" zoomable=true style="width: 300px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/bird-lca.png" class="img-fluid rounded z-depth-1" zoomable=true style="height: 200px;" %}
     </div>
 </div>
 
@@ -62,7 +62,7 @@ enable very high (>80%) renewable energy grids.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ldes-graphical-abstract.png" class="img-fluid rounded z-depth-1" zoomable=true style="width: 300px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/ldes-graphical-abstract.png" class="img-fluid rounded z-depth-1" zoomable=true style="height: 200px;" %}
     </div>
 </div>
 
@@ -82,7 +82,7 @@ major conclusions to over 400 attendees.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cover-page-tp-5400-71796.png" class="img-fluid rounded z-depth-1" zoomable=true style="width: 300px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/cover-page-tp-5400-71796.png" class="img-fluid rounded z-depth-1" zoomable=true style="height: 200px;" %}
     </div>
 </div>
 
