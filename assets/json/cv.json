@@ -13,10 +13,7 @@
       "startDate": "2012",
       "endDate": "2013",
       "score": "4.7/5.0",
-      "courses": [
-        "M.S. in Chemical Engineering Practice",
-        "Recipient of the Jefferson W. Tester Prize for leadership and enthusiasm"
-      ]
+      "courses": ["M.S. in Chemical Engineering Practice", "Recipient of the Jefferson W. Tester Prize for leadership and enthusiasm"]
     },
     {
       "institution": "University of Colorado at Boulder",
@@ -26,10 +23,7 @@
       "startDate": "2017",
       "endDate": "2019",
       "score": "3.97/4.0",
-      "courses": [
-        "Class Rank: 1/89",
-        "Evening MBA program (focus: management, entrepreneurship, and sustainability)"
-      ]
+      "courses": ["Class Rank: 1/89", "Evening MBA program (focus: management, entrepreneurship, and sustainability)"]
     },
     {
       "institution": "University of Rochester",
