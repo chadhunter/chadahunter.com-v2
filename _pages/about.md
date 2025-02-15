@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Head of Sustainability</p>
+    <p>VP of Sustainable Financial Products</p>
     <p>Denver, CO</p>
 
 news: false # includes a list of news items
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Current:** I am the Head of Sustainability at Aspiration, the leading climate fintech in the U.S. I lead our corporate sustainability strategy and climate feature innovation and development across our financial products.
+**Current:** I am the VP of Sustainable Financial Products at Aspiration, the leading climate fintech in the U.S. I am our Head of Product and our Head of Sustainability, leading product innovation through delivery while overseeing how climate is integrated into our products and our business.
 
 **Future:** Continue leading sustainability or product teams to accelerate climate progress through software and/or financial products.
 
