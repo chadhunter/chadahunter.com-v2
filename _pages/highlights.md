@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Highlights/
+permalink: /highlights/
 title: Highlights
 description:
 nav: true
