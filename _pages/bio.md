@@ -25,7 +25,7 @@ small businesses to understand, reduce, and offset their environmental impact.
 
 Previously, Chad was a Team Lead at the U.S. Department of Energy (DOE)
 [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/).
-in their [Center for Integrated Mobility Sciences](https://www.nrel.gov/transportation/sustainable-mobility-initiative.html)
+in their [Center for Integrated Mobility Sciences](https://www.nrel.gov/transportation/sustainable-mobility.html)
 where his research focus was at the intersection of economics and renewable
 transportation systems. Chad's work at NREL supported multiple public agencies including
 the U.S. DOE Hydrogen and Fuel Cell Technologies Office, Vehicle Technologies Office,
