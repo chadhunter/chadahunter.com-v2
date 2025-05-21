@@ -42,7 +42,19 @@
   ],
   "work": [
     {
-      "name": "Aspiration",
+      "name": "GreenFi (formerly Aspiration)",
+      "position": "VP, Sustainable Financial Products",
+      "location": "Denver, CO",
+      "startDate": "2024",
+      "endDate": "2025",
+      "highlights": [
+        "In this role, I am the Head of Product and Head of Sustainability for GreenFi",
+        "Create and execute our product strategy including everything from target market definition, customer development, product lifecycle development (ideation -> validation -> build -> launch), and product optimization",
+        "Complete all corporate sustainability strategy, GHG inventory creation, target setting, reduction planning, and reporting",
+      ]
+    },
+    {
+      "name": "Aspiration (now GreenFi)",
       "position": "Senior Director, Head of Climate/Sustainability",
       "location": "Denver, CO",
       "startDate": "2023",

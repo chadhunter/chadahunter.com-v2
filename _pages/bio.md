@@ -7,15 +7,19 @@ nav: true
 nav_order: 2
 ---
 
-Chad is currently the Senior Director, Head of Sustainability at [Aspiration](https://aspiration.com)
-where he leads the corporate and product sustainability initiatives of the firm. On the corporate sustainability side, this includes
-all corporate GHG accounting, target setting, carbon credit procurement, reporting, and risk assessments. On the Product side,
-this includes leading Aspiration's product climate strategy, innovation, and development across their debit card and investment products.
+Chad is currently the VP of Sustainable Financial Products at [GreenFi](https://greenfi.com)
+where he leads the corporate and product sustainability initiatives of the firm. On the 
+corporate sustainability side, this includes all corporate GHG accounting, target 
+setting, carbon credit procurement, reporting, and risk assessments. On the Product side,
+this includes leading GreenFi's product climate strategy, innovation, and development 
+across their debit card and investment products.
 
-Prior to his role as Head of Sustainability, Chad started a new business line of B2B2C
-digital carbon products. Chad owned the P&L, strategy, and overall success of this new business line.
+Prior to his role as VP of Sustainable Financial Products, Chad was Head of Sustainability 
+at GreenFi and had started a new business line of B2B2C digital carbon products for 
+Aspiration (previous brand name before GreenFi). Chad owned the P&L, strategy, and 
+overall success of this new business line.
 
-Before Aspiration, Chad was the CEO & Co-founder of
+Before GreenFi, Chad was the CEO & Co-founder of
 **Carbon Insights** which was acquired by Aspiration and
 announced in January 2022
 ([Press Release](https://www.businesswire.com/news/home/20220112005366/en/Aspiration-Acquires-Carbon-Insights-to-Expand-its-Sustainability-Services-for-Consumers-and-Enterprises/)).
