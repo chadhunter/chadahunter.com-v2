@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>VP of Sustainable Financial Products</p>
+    <p>VP, Product and Engineering</p>
     <p>Denver, CO</p>
 
 news: false # includes a list of news items
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Current:** I am the VP of Sustainable Financial Products at GreenFi, the leading 
-climate fintech in the U.S. I am our Head of Product and our Head of Sustainability, 
-leading product innovation through delivery while overseeing how climate is integrated 
+**Current:** I am the VP, Product and Engineering at GreenFi, the leading 
+climate fintech in the U.S. I lead our Product, Engineering, and Sustainability teams, 
+driving product innovation through delivery while overseeing how climate is integrated 
 into our products and our business.
 
 **Future:** Continue leading sustainability or product teams to accelerate climate 
