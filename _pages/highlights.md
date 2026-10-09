@@ -78,7 +78,7 @@ plug-in hybrid electric, compressed natural gas, fuel cell electric, and battery
 
 Chad provided a DOE H2IQ Hour webinar in September 2021 reviewing this work and the
 major conclusions to over 400 attendees.
-([Webinar Link](https://www.energy.gov/eere/fuelcells/h2iq-hour-market-segmentation-medium-and-heavy-duty-vehicles))
+([Webinar Link](https://www.energy.gov/cmei/fuels/h2iq-hour-market-segmentation-medium-and-heavy-duty-vehicles-text-version))
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
