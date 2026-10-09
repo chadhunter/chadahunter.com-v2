@@ -8,15 +8,15 @@ nav_order: 2
 ---
 
 Chad is currently the VP of Sustainable Financial Products at [GreenFi](https://greenfi.com)
-where he leads the corporate and product sustainability initiatives of the firm. On the 
-corporate sustainability side, this includes all corporate GHG accounting, target 
+where he leads the corporate and product sustainability initiatives of the firm. On the
+corporate sustainability side, this includes all corporate GHG accounting, target
 setting, carbon credit procurement, reporting, and risk assessments. On the Product side,
-this includes leading GreenFi's product climate strategy, innovation, and development 
+this includes leading GreenFi's product climate strategy, innovation, and development
 across their debit card and investment products.
 
-Prior to his role as VP of Sustainable Financial Products, Chad was Head of Sustainability 
-at GreenFi and had started a new business line of B2B2C digital carbon products for 
-Aspiration (previous brand name before GreenFi). Chad owned the P&L, strategy, and 
+Prior to his role as VP of Sustainable Financial Products, Chad was Head of Sustainability
+at GreenFi and had started a new business line of B2B2C digital carbon products for
+Aspiration (previous brand name before GreenFi). Chad owned the P&L, strategy, and
 overall success of this new business line.
 
 Before GreenFi, Chad was the CEO & Co-founder of

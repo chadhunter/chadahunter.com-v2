@@ -43,4 +43,5 @@ jobs:
         with:
           fail: true
           # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          # the 800/1400px webp variants are not generated for images smaller than those widths
+          args: --offline --exclude '-(800|1400)\.webp$' --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
