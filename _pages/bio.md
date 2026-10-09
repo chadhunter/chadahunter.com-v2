@@ -7,17 +7,19 @@ nav: true
 nav_order: 2
 ---
 
-Chad is currently the VP of Sustainable Financial Products at [GreenFi](https://greenfi.com)
-where he leads the corporate and product sustainability initiatives of the firm. On the
-corporate sustainability side, this includes all corporate GHG accounting, target
-setting, carbon credit procurement, reporting, and risk assessments. On the Product side,
-this includes leading GreenFi's product climate strategy, innovation, and development
-across their debit card and investment products.
+Chad is currently the VP, Product and Engineering at [GreenFi](https://greenfi.com)
+where he leads the firm's product strategy and its engineering team, and oversees the AI
+transformation of GreenFi's product-development team. He also continues to lead the corporate
+and product sustainability initiatives of the firm. On the corporate sustainability side,
+this includes all corporate GHG accounting, target setting, carbon credit procurement,
+reporting, and risk assessments. On the Product side, this includes leading GreenFi's
+product climate strategy, innovation, and development across their debit card and
+investment products.
 
-Prior to his role as VP of Sustainable Financial Products, Chad was Head of Sustainability
-at GreenFi and had started a new business line of B2B2C digital carbon products for
-Aspiration (previous brand name before GreenFi). Chad owned the P&L, strategy, and
-overall success of this new business line.
+Prior to his role as VP, Product and Engineering, Chad was VP of Sustainable Financial
+Products and, before that, Head of Sustainability at GreenFi, where he started a new
+business line of B2B2C digital carbon products for Aspiration (previous brand name before
+GreenFi). Chad owned the P&L, strategy, and overall success of this new business line.
 
 Before GreenFi, Chad was the CEO & Co-founder of
 **Carbon Insights** which was acquired by Aspiration and
@@ -28,8 +30,8 @@ cloud-based sustainability-as-a-service offerings to help empower individuals an
 small businesses to understand, reduce, and offset their environmental impact.
 
 Previously, Chad was a Team Lead at the U.S. Department of Energy (DOE)
-[National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/).
-in their [Center for Integrated Mobility Sciences](https://www.nrel.gov/transportation/sustainable-mobility.html)
+[National Renewable Energy Laboratory (NREL)](https://www.nlr.gov/).
+in their [Center for Integrated Mobility Sciences](https://www.nlr.gov/transportation/sustainable-mobility.html)
 where his research focus was at the intersection of economics and renewable
 transportation systems. Chad's work at NREL supported multiple public agencies including
 the U.S. DOE Hydrogen and Fuel Cell Technologies Office, Vehicle Technologies Office,

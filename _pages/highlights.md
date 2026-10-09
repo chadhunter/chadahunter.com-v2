@@ -19,9 +19,9 @@ nav_order: 4
 
 ## NREL
 
-- The U.S. Department of Energy recognized Chad Hunter and his analysis team at the [2021 Annual Merit Review Awards](https://www.nrel.gov/news/program/2021/doe-recognizes-multiple-nrel-hydrogen-researchers-2021-annual-merit-review-awards.html)
+- The U.S. Department of Energy recognized Chad Hunter and his analysis team at the [2021 Annual Merit Review Awards](https://www.nlr.gov/news/program/2021/doe-recognizes-multiple-nrel-hydrogen-researchers-2021-annual-merit-review-awards.html)
 - [PV Magazine highlights Chad Hunter (PI)](https://www.pv-magazine.com/2021/08/27/cheapest-long-duration-storage-for-systems-with-high-renewables/) and his team's analysis on long duration energy storage technologies
-- Chad Hunter leads [breakthrough analysis](https://www.nrel.gov/news/program/2021/breakthrough-analysis-finds-electrified-heavy-duty-powertrains-could-provide-lower-total-cost-ownership.html) on the economics of electrified heavy-duty trucks
+- Chad Hunter leads [breakthrough analysis](https://www.nlr.gov/news/program/2021/breakthrough-analysis-finds-electrified-heavy-duty-powertrains-could-provide-lower-total-cost-ownership.html) on the economics of electrified heavy-duty trucks
 
 ## Bird
 
@@ -88,7 +88,7 @@ major conclusions to over 400 attendees.
 
 Report cover from Chad et al.'s Total Cost of Ownership analysis for Class 8 Tractors
 and Class 4 Parcel Delivery Trucks
-([Source](https://www.nrel.gov/docs/fy21osti/71796.pdf))
+([Source](https://www.nlr.gov/docs/fy21osti/71796.pdf))
 
 ---
 
